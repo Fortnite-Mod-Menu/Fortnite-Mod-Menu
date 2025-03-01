@@ -1,0 +1,1 @@
+console.log("Fortnite Mod Menu is active!");
